@@ -5,7 +5,7 @@ You can view it live here: https://h-assignment.pages.dev
 # Things to consider
 
 1. Use React v17 as some packages were giving issues with React v18
-2. Use react with vite instead of create-react-app
+2. Use vite's react-ts template instead of create-react-app
 3. Use tailwindcss for styling
 4. Use react-query for data fetching library
 
